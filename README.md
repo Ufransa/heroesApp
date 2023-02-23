@@ -6,3 +6,6 @@
 2. Ejecutar ```npm install```
 3. Levantar backend ```npm run backend```
 4. Ejecutar app ```ng serve -o```
+
+
+![](https://github.com/Ufransa/heroesAppGif/blob/main/heroesApp.gif)
